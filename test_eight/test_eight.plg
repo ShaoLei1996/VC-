@@ -1,0 +1,41 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test_eight - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\shaolei\AppData\Local\Temp\RSPA787.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/test_eight.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\程序\VC程序\VC++程序设计\test_eight\test_eight.cpp"
+"D:\程序\VC程序\VC++程序设计\test_eight\test_eightView.cpp"
+]
+Creating command line "cl.exe @C:\Users\shaolei\AppData\Local\Temp\RSPA787.tmp" 
+Creating temporary file "C:\Users\shaolei\AppData\Local\Temp\RSPA788.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/test_eight.pdb" /debug /machine:I386 /out:"Debug/test_eight.exe" /pdbtype:sept 
+".\Debug\ChildFrm.obj"
+".\Debug\MainFrm.obj"
+".\Debug\StdAfx.obj"
+".\Debug\test_eight.obj"
+".\Debug\test_eightDoc.obj"
+".\Debug\test_eightView.obj"
+".\Debug\test_eight.res"
+]
+Creating command line "link.exe @C:\Users\shaolei\AppData\Local\Temp\RSPA788.tmp"
+<h3>Output Window</h3>
+Compiling...
+Skipping... (no relevant changes detected)
+test_eight.cpp
+test_eightView.cpp
+Linking...
+
+
+
+<h3>Results</h3>
+test_eight.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
